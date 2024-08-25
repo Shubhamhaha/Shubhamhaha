@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shubhamhaha
+- 👀 I’m interested in web developement and machine learning.
+- 🌱 I’m currently learning front-end web dev 
+- 📫 you can reach me on instagram @shubhamofc
+- 😄 Pronouns: he/him
